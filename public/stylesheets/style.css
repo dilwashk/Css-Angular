@@ -1,0 +1,8 @@
+body {
+    font: 14px "Helvetica", Helvetica, Arial, sans-serif;
+    background-image: linear-gradient(red, yellow);
+}
+
+a {
+    color: #1b0cee;
+}
